@@ -1,0 +1,14 @@
+#loutinav ul li {
+	font-size: 12px;
+}
+#loutinav ul li.last {
+
+}
+
+#loutinav ul li.active{
+	font-size: 15px;
+}
+
+#loutinav ul li:hover {
+	font-size: 15px;
+}
